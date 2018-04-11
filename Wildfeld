@@ -1,0 +1,28 @@
+#!/bin/bash
+
+clear
+
+echo "Rovina na Wildfeld
+
+
+Tanci se hora kloni,
+Telo nebo duch strada,
+nestiham sve tajne moji,
+pojd, blizko jsou hebka zada. 
+
+
+K moji kolma tvoje je rovina,
+svisla,hladka,klouzu po ni,
+proc se to kruci protina,
+srdce slza plni.
+
+
+Velka placka nahozena,
+kdo a proc to meni,
+stejne jednej jako zena
+a diky za probuzeni!
+
+
+Jan Bohacek, 2018:)"
+
+exit 0
